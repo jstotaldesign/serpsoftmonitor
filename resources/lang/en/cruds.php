@@ -65,5 +65,9 @@ return [
             'deleted_at_helper'        => ' ',
         ],
     ],
+    'issuesProject' => [
+        'title'          => 'Issues Project',
+        'title_singular' => 'Issues Project',
+    ],
 
 ];
