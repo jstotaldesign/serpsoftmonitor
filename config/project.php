@@ -12,10 +12,6 @@ return [
             'title'      => 'English',
             'short_code' => 'en',
         ],
-        [
-            'title'      => 'Thai',
-            'short_code' => 'th',
-        ],
     ],
 
 ];
